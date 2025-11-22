@@ -1,10 +1,12 @@
 # ShhubhangiRao25BAI10723
-rooms_data = [{"number": "101", "type": "Standard Non-AC", "price": 1000.00, "is_available": False, "guest": None},
-    {"number": "102", "type": "Standard Non-AC", "price": 1000.00, "is_available": False, "guest": None},
+rooms_data = [{"number": "101", "type": "Standard Non-AC", "price": 1000.00, "is_available": True, "guest": None},
+    {"number": "102", "type": "Standard Non-AC", "price": 1000.00, "is_available": True, "guest": None},
     {"number": "201", "type": "Deluxe AC", "price": 2500.00, "is_available": True, "guest": None},
     {"number": "202", "type": "Deluxe AC", "price": 2500.00, "is_available": True, "guest": None},  
     {"number": "301", "type": "Premium AC", "price": 3000.00, "is_available": True, "guest": None},
-    {"number": "302", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None},]
+    {"number": "302", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None},
+    {"number": "401", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None},
+    {"number": "402", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None}, ]
 
 Hotel_VIT_Bhopal = "hotel for firstyears "
 
