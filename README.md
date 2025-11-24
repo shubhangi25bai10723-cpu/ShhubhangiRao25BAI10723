@@ -6,7 +6,8 @@ rooms_data = [{"number": "101", "type": "Standard Non-AC", "price": 1000.00, "is
 {"number": "301", "type": "Premium AC", "price": 3000.00, "is_available": True, "guest": None},
 {"number": "302", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None},
 {"number": "401", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None},
-{"number": "402", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None}, ]
+{"number": "402", "type": "Premium  AC", "price": 3000.00, "is_available": True, "guest": None}, 
+]
 
 Hotel_VIT_Bhopal = "hotel for firstyears "
 
